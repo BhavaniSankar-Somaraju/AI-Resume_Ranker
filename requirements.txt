@@ -1,0 +1,8 @@
+PyMuPDF
+scikit-learn
+spacy
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
