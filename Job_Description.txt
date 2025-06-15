@@ -1,0 +1,1 @@
+We are seeking a Machine Learning Engineer with experience in Python, TensorFlow, and natural language processing. The candidate should have knowledge of resume parsing, scoring systems, and data preprocessing. Strong communication and collaboration skills are a plus.
